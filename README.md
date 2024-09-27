@@ -30,6 +30,10 @@ menor y escríbalo. Realizar un algoritmo que sume dos números y desplegarlo
 6
 .Hallar el perímetro y el área de un rectángulo ingresando la base
 b y la altura h.
+![image](https://github.com/user-attachments/assets/1ac3af9b-17bf-4ab7-9def-bd3077daa473)
+![image](https://github.com/user-attachments/assets/9d1864c8-e276-4365-a9d2-69bda9882795)
+![image](https://github.com/user-attachments/assets/29e6adad-27c6-4079-b1f5-1c3593beaa8c)
+
 
 
 
