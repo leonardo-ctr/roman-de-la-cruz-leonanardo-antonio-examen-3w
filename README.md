@@ -49,6 +49,14 @@ si es par o impar.
 ![image](https://github.com/user-attachments/assets/3d02591d-ee2f-4cc2-bad1-779087b29002)
 
 
+9.- Ingresar un número entero para saber si es divisible por 7 y es
+mayor a 40.
+![image](https://github.com/user-attachments/assets/1a54306b-94ec-4fd6-9006-84ff2e2eeaf2)
+![image](https://github.com/user-attachments/assets/cddfdde0-6a64-4baf-98e2-9b674d2930ad)
+
+
+
+
 
 
 
