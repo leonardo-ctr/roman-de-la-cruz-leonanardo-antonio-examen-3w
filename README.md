@@ -22,6 +22,14 @@ El algoritmo debe imprimir cual es el mayor y cual es el menor. Recuerde constat
 .Desarrollar código que lea dos valores que captures, determinar cual de los dos valores es el
 menor y escríbalo. Realizar un algoritmo que sume dos números y desplegarlo
 
+![image](https://github.com/user-attachments/assets/b3e6b0f2-cf18-4cb6-a4fb-b78210eda0c7)
+![image](https://github.com/user-attachments/assets/4d46628e-2feb-4993-8fa5-bac21a936408)
+![image](https://github.com/user-attachments/assets/3e7d2b1d-504f-4276-a72a-36f28bfc0747)
+![image](https://github.com/user-attachments/assets/e61745bc-9ecd-49d9-817b-0e02dd572b46)
+
+
+
+
 
 
 
