@@ -1,0 +1,19 @@
+print(" ")#define una linea en blanco
+print("Roman De la Cruz Leonardo Antonio, numero 1211, examen, 3-w")
+print(" ")#define una linea en blanco
+paterno = str(input("Ingresa apellido paterno: "))#solicita apellido paterno
+print(" ")#define una linea en blanco
+materno = str(input("Ingresa apellido materno: "))#solicita apellido materno
+print(" ")#define una linea en blanco
+nombre1 = str(input("Ingresa primer nombre: "))#solicita primer nombre
+print(" ")#define una linea en blanco
+nombre2 = str(input("Ingresa segundo nombre: "))#solicita segundo nombre
+print(" ")#define una linea en blanco
+
+a = paterno +" " + materno + " "+ nombre1 + " "+ nombre2#junta todas las variables
+
+print( a)#imprime las variables
+print(" ")#define una linea en blanco
+
+print(a.upper())#los convierte a mayusculas
+print(" ")#define una linea en blanco
