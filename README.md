@@ -35,6 +35,13 @@ b y la altura h.
 ![image](https://github.com/user-attachments/assets/29e6adad-27c6-4079-b1f5-1c3593beaa8c)
 
 
+7
+.Solicitar al usuario un número natural y verificar que el número
+ingresado se encuentre dentro de la primera docena de números naturales,
+es decir entre el 1 y el 12.
+![image](https://github.com/user-attachments/assets/55fce197-5a89-40d5-bf4b-c9dafe39d4c1)
+![image](https://github.com/user-attachments/assets/468fad28-3657-4827-b611-691ef48c2cd4)
+
 
 
 
