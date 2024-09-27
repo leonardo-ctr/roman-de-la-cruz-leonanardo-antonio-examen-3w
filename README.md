@@ -55,6 +55,16 @@ mayor a 40.
 ![image](https://github.com/user-attachments/assets/25da6357-b5f8-4fa9-a4a9-4e3dd67a7004)
 
 
+10.- El factorial de un número entero se denota de la siguiente manera
+«n!» y su resultado es n!=n*(n-1)*(n-2)*…*1. Por ejemplo: 5!=5*4*3*2*1
+siendo el resultado 120. Se pide desarrollar un programa que lee un valor N
+y determine su factorial.
+![image](https://github.com/user-attachments/assets/18333b36-9435-4dbd-b96e-6d1e01a4d45f)
+![image](https://github.com/user-attachments/assets/64234f1a-cbe4-4542-a4c5-950b6c29065a)
+
+
+
+
 
 
 
