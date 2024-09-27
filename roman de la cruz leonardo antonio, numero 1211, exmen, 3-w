@@ -1,0 +1,18 @@
+print(" ")#define una linea en blanco
+print("Roman De la Cruz Leonardo Antonio, numero 1211, examen, 3-w  ") 
+print(" ")#define una linea en blanco
+A = float(input("Ingresa el primer valor : ")) #solicita el valor A
+print(" ")#define una linea en blanco
+B = float(input("Ingresa el segundo valor : "))#solicita el valor B
+print(" ")#define una linea en blanco
+C = float(input("Ingresa el tercer valor : "))#solicita el valor C  
+print(" ")#define una linea en blanco
+if A == B or A == C or B == C:#marcara si son iguales
+    print("hay numeros iguales ")   
+else:
+    mayor = max(A, B, C)  #marcara el mayor
+    menor = min(A, B, C) #marcara el menor
+    print("El valor mayor es", mayor)#imprime si es mayor 
+    print(" ")#define una linea en blanco
+    print("El valor menor es", menor)#imprime si es menor
+    print(" ")#define una linea en blanco
