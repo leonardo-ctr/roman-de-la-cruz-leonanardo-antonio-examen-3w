@@ -27,6 +27,10 @@ menor y escríbalo. Realizar un algoritmo que sume dos números y desplegarlo
 ![image](https://github.com/user-attachments/assets/3e7d2b1d-504f-4276-a72a-36f28bfc0747)
 ![image](https://github.com/user-attachments/assets/e61745bc-9ecd-49d9-817b-0e02dd572b46)
 
+6
+.Hallar el perímetro y el área de un rectángulo ingresando la base
+b y la altura h.
+
 
 
 
