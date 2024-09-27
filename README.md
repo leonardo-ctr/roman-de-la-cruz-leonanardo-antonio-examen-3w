@@ -43,6 +43,13 @@ es decir entre el 1 y el 12.
 ![image](https://github.com/user-attachments/assets/468fad28-3657-4827-b611-691ef48c2cd4)
 
 
+8.- Ingresar un número natural por teclado. Se desea saber y mostrar
+si es par o impar.
+![image](https://github.com/user-attachments/assets/52d669d8-dbfa-4960-a637-88baf8867a85)
+![image](https://github.com/user-attachments/assets/3d02591d-ee2f-4cc2-bad1-779087b29002)
+
+
+
 
 
 
